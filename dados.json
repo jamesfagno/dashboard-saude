@@ -1,86 +1,246 @@
 {
   "volume": {
-    "SUS": 62,
-    "Particular": 23,
-    "Convênio": 83,
-    "total": 168
+    "SUS": 3719,
+    "Particular": 1396,
+    "Convênio": 4885,
+    "total": 10000
   },
   "receita": {
     "SUS": {
-      "total": 4236.360000000003,
-      "quantidade": 51,
-      "ticket_medio": 83.07
+      "total": 246713.9600000092,
+      "quantidade": 2941,
+      "ticket_medio": 83.89
     },
     "Particular": {
-      "total": 6540.0,
-      "quantidade": 18,
-      "ticket_medio": 363.33
+      "total": 388525.9200000001,
+      "quantidade": 1085,
+      "ticket_medio": 358.09
     },
     "Convênio": {
-      "total": 17147.0,
-      "quantidade": 64,
-      "ticket_medio": 267.92
+      "total": 1028388.4199999995,
+      "quantidade": 3883,
+      "ticket_medio": 264.84
     },
     "geral": {
-      "total": 27923.36,
-      "quantidade": 133,
-      "ticket_medio": 209.95
+      "total": 1663628.3,
+      "quantidade": 7909,
+      "ticket_medio": 210.35
     }
   },
   "cancelamento": {
-    "total": 168,
-    "realizadas": 133,
-    "canceladas": 19,
-    "glosadas": 16,
-    "taxa_cancelamento": 11.3,
-    "taxa_glosa": 9.5
+    "total": 10000,
+    "realizadas": 7909,
+    "canceladas": 1164,
+    "glosadas": 927,
+    "taxa_cancelamento": 11.6,
+    "taxa_glosa": 9.3
   },
   "perdas_por_tipo": {
     "SUS": {
-      "canceladas": 3,
-      "glosadas": 8
+      "canceladas": 426,
+      "glosadas": 352
     },
     "Particular": {
-      "canceladas": 5,
-      "glosadas": 0
+      "canceladas": 177,
+      "glosadas": 134
     },
     "Convênio": {
-      "canceladas": 11,
-      "glosadas": 8
+      "canceladas": 561,
+      "glosadas": 441
     }
   },
   "saldo_mes": {
+    "2022-01": {
+      "receita": 30079.09,
+      "consultas": 150
+    },
+    "2022-02": {
+      "receita": 26740.94,
+      "consultas": 124
+    },
+    "2022-03": {
+      "receita": 35709.63,
+      "consultas": 168
+    },
+    "2022-04": {
+      "receita": 30434.3,
+      "consultas": 151
+    },
+    "2022-05": {
+      "receita": 33723.39,
+      "consultas": 161
+    },
+    "2022-06": {
+      "receita": 32733.31,
+      "consultas": 161
+    },
+    "2022-07": {
+      "receita": 37670.67,
+      "consultas": 179
+    },
+    "2022-08": {
+      "receita": 37494.3,
+      "consultas": 172
+    },
+    "2022-09": {
+      "receita": 31462.89,
+      "consultas": 145
+    },
+    "2022-10": {
+      "receita": 35642.71,
+      "consultas": 177
+    },
+    "2022-11": {
+      "receita": 36725.97,
+      "consultas": 169
+    },
+    "2022-12": {
+      "receita": 29897.36,
+      "consultas": 149
+    },
+    "2023-01": {
+      "receita": 34361.38,
+      "consultas": 157
+    },
+    "2023-02": {
+      "receita": 29770.15,
+      "consultas": 138
+    },
+    "2023-03": {
+      "receita": 29545.4,
+      "consultas": 154
+    },
+    "2023-04": {
+      "receita": 30784.18,
+      "consultas": 157
+    },
+    "2023-05": {
+      "receita": 36977.08,
+      "consultas": 174
+    },
+    "2023-06": {
+      "receita": 31665.06,
+      "consultas": 147
+    },
+    "2023-07": {
+      "receita": 34118.61,
+      "consultas": 162
+    },
+    "2023-08": {
+      "receita": 36621.36,
+      "consultas": 164
+    },
+    "2023-09": {
+      "receita": 33660.89,
+      "consultas": 171
+    },
+    "2023-10": {
+      "receita": 37127.54,
+      "consultas": 187
+    },
+    "2023-11": {
+      "receita": 31182.62,
+      "consultas": 155
+    },
+    "2023-12": {
+      "receita": 31668.74,
+      "consultas": 152
+    },
     "2024-01": {
-      "receita": 3841.56,
-      "consultas": 18
+      "receita": 33523.96,
+      "consultas": 169
     },
     "2024-02": {
-      "receita": 4359.04,
-      "consultas": 19
+      "receita": 32491.05,
+      "consultas": 160
     },
     "2024-03": {
-      "receita": 3146.04,
-      "consultas": 17
+      "receita": 38145.24,
+      "consultas": 170
     },
     "2024-04": {
-      "receita": 2488.9,
-      "consultas": 13
+      "receita": 35966.57,
+      "consultas": 157
     },
     "2024-05": {
-      "receita": 3515.18,
-      "consultas": 15
+      "receita": 33896.44,
+      "consultas": 173
     },
     "2024-06": {
-      "receita": 3013.28,
-      "consultas": 14
+      "receita": 35343.67,
+      "consultas": 163
     },
     "2024-07": {
-      "receita": 3558.32,
-      "consultas": 18
+      "receita": 38133.26,
+      "consultas": 177
     },
     "2024-08": {
-      "receita": 4001.04,
-      "consultas": 19
+      "receita": 36221.49,
+      "consultas": 175
+    },
+    "2024-09": {
+      "receita": 33754.49,
+      "consultas": 170
+    },
+    "2024-10": {
+      "receita": 39159.84,
+      "consultas": 173
+    },
+    "2024-11": {
+      "receita": 31134.45,
+      "consultas": 149
+    },
+    "2024-12": {
+      "receita": 38111.71,
+      "consultas": 171
+    },
+    "2025-01": {
+      "receita": 34377.45,
+      "consultas": 165
+    },
+    "2025-02": {
+      "receita": 35951.62,
+      "consultas": 172
+    },
+    "2025-03": {
+      "receita": 41392.35,
+      "consultas": 187
+    },
+    "2025-04": {
+      "receita": 36690.43,
+      "consultas": 161
+    },
+    "2025-05": {
+      "receita": 33052.8,
+      "consultas": 160
+    },
+    "2025-06": {
+      "receita": 40586.01,
+      "consultas": 181
+    },
+    "2025-07": {
+      "receita": 33881.5,
+      "consultas": 154
+    },
+    "2025-08": {
+      "receita": 41138.35,
+      "consultas": 186
+    },
+    "2025-09": {
+      "receita": 35515.08,
+      "consultas": 173
+    },
+    "2025-10": {
+      "receita": 34728.23,
+      "consultas": 171
+    },
+    "2025-11": {
+      "receita": 41450.24,
+      "consultas": 201
+    },
+    "2025-12": {
+      "receita": 33184.5,
+      "consultas": 167
     }
   },
   "usuarios": [
