@@ -1,0 +1,40 @@
+# ── CSVs de dados locais (gerados pelo gerar_dados.py — não versionar) ──
+dados/consultas.csv
+dados/pacientes.csv
+dados/pagamentos.csv
+dados/profissionais.csv
+dados/procedimentos.csv
+
+# usuarios.csv contém hashes de senha — não versionar
+dados/usuarios.csv
+
+# dados.json É versionado — serve o Vercel com snapshot de demonstração
+# (não adicionar dados.json aqui)
+
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Ambientes virtuais ──
+venv/
+.venv/
+env/
+.env/
+
+# ── Sistema operacional ──
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Editores ──
+.vscode/
+.idea/
+*.swp
+*.swo

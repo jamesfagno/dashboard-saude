@@ -1,0 +1,6 @@
+# Dependências do sistema de terminal (Python)
+# O front-end (Vercel) é 100% estático — não usa nenhuma dessas bibliotecas
+
+# Não há dependências externas no momento.
+# O projeto usa apenas bibliotecas padrão do Python 3:
+#   csv, json, os, hashlib, datetime, random

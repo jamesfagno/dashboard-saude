@@ -1,0 +1,73 @@
+{
+  "volume": {
+    "SUS": 62,
+    "Particular": 23,
+    "Convênio": 83,
+    "total": 168
+  },
+  "receita": {
+    "SUS": {
+      "total": 4236.36,
+      "quantidade": 51,
+      "ticket_medio": 83.07
+    },
+    "Particular": {
+      "total": 6540.0,
+      "quantidade": 18,
+      "ticket_medio": 363.33
+    },
+    "Convênio": {
+      "total": 17147.0,
+      "quantidade": 64,
+      "ticket_medio": 267.92
+    },
+    "geral": {
+      "total": 27923.36,
+      "quantidade": 133,
+      "ticket_medio": 209.95
+    }
+  },
+  "cancelamento": {
+    "total": 168,
+    "realizadas": 133,
+    "canceladas": 19,
+    "glosadas": 16,
+    "taxa_cancelamento": 11.3,
+    "taxa_glosa": 9.5
+  },
+  "perdas_por_tipo": {
+    "SUS": { "canceladas": 3, "glosadas": 8 },
+    "Particular": { "canceladas": 5, "glosadas": 0 },
+    "Convênio": { "canceladas": 11, "glosadas": 8 }
+  },
+  "saldo_mes": {
+    "2024-01": { "receita": 3841.56, "consultas": 18 },
+    "2024-02": { "receita": 4359.04, "consultas": 19 },
+    "2024-03": { "receita": 3146.04, "consultas": 17 },
+    "2024-04": { "receita": 2488.90, "consultas": 13 },
+    "2024-05": { "receita": 3515.18, "consultas": 15 },
+    "2024-06": { "receita": 3013.28, "consultas": 14 },
+    "2024-07": { "receita": 3558.32, "consultas": 18 },
+    "2024-08": { "receita": 4001.04, "consultas": 19 }
+  },
+  "usuarios": [
+    {
+      "login": "admin",
+      "nome": "Administrador",
+      "perfil": "admin",
+      "senha_hash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9"
+    },
+    {
+      "login": "gestor1",
+      "nome": "Gestor Financeiro",
+      "perfil": "gestor",
+      "senha_hash": "18f2b94d784d03c222cb7c47148cdb8457f1ef3eaf3e317711f25d55747f6a35"
+    },
+    {
+      "login": "recepcao",
+      "nome": "Recepção",
+      "perfil": "operador",
+      "senha_hash": "8c61c48211844338cea877a63bec62b4a89ccb68870fe1e00e71dda89c56a36c"
+    }
+  ]
+}
