@@ -1,0 +1,169 @@
+id,paciente_id,profissional_id,data,tipo,procedimento,valor,status
+1,109,6,2024-01-06,Convênio,Consulta em Neurologia,320,realizada
+2,44,5,2024-01-20,SUS,Consulta em Pediatria,75.38,realizada
+3,72,1,2024-01-17,Convênio,Consulta em Clínica Geral,185,realizada
+4,93,7,2024-01-16,Convênio,Consulta em Dermatologia,232,realizada
+5,83,12,2024-01-16,Convênio,Consulta em Reumatologia,304,realizada
+6,38,4,2024-01-13,Convênio,Consulta em Ortopedia,304,realizada
+7,61,9,2024-01-17,SUS,Consulta em Endocrinologia,75.38,realizada
+8,46,12,2024-01-15,SUS,Consulta em Reumatologia,130.66,realizada
+9,30,2,2024-01-24,Convênio,Consulta em Cardiologia,281,realizada
+10,25,4,2024-01-24,Convênio,Consulta em Ortopedia,297,realizada
+11,13,14,2024-01-07,SUS,Consulta em Infectologia,75.38,realizada
+12,23,5,2024-01-01,Particular,Consulta em Pediatria,275,realizada
+13,7,9,2024-01-10,Convênio,Consulta em Endocrinologia,282,glosada
+14,82,14,2024-01-25,Convênio,Consulta em Infectologia,237,realizada
+15,74,5,2024-01-16,Particular,Consulta em Pediatria,260,realizada
+16,33,14,2024-01-16,Particular,Consulta em Infectologia,297,cancelada
+17,52,8,2024-01-03,Convênio,Consulta em Psiquiatria,420,realizada
+18,20,3,2024-01-26,SUS,Consulta em Ginecologia e Obstetrícia,75.38,realizada
+19,11,4,2024-01-04,SUS,Consulta em Ortopedia,75.38,realizada
+20,78,10,2024-01-26,Convênio,Consulta em Oftalmologia,219,realizada
+21,58,15,2024-01-15,Convênio,Consulta em Pneumologia,261,cancelada
+22,40,10,2024-02-20,SUS,Consulta em Oftalmologia,75.38,realizada
+23,98,4,2024-02-21,Convênio,Consulta em Ortopedia,288,realizada
+24,21,4,2024-02-06,Convênio,Consulta em Ortopedia,299,realizada
+25,53,8,2024-02-23,SUS,Consulta em Psiquiatria,150.76,realizada
+26,5,4,2024-02-10,SUS,Consulta em Ortopedia,75.38,realizada
+27,10,11,2024-02-08,SUS,Consulta em Urologia,75.38,glosada
+28,101,13,2024-02-21,Convênio,Consulta em Gastroenterologia,286,realizada
+29,55,2,2024-02-18,Particular,Consulta em Cardiologia,374,realizada
+30,10,1,2024-02-06,SUS,Consulta em Clínica Geral,75.38,realizada
+31,57,2,2024-02-15,Particular,Consulta em Cardiologia,404,realizada
+32,65,9,2024-02-16,Particular,Consulta em Endocrinologia,368,realizada
+33,95,6,2024-02-20,SUS,Consulta em Neurologia,75.38,realizada
+34,30,11,2024-02-27,Convênio,Consulta em Urologia,272,realizada
+35,98,11,2024-02-27,Convênio,Consulta em Urologia,253,realizada
+36,61,9,2024-02-21,SUS,Consulta em Endocrinologia,75.38,realizada
+37,24,10,2024-02-14,SUS,Consulta em Oftalmologia,75.38,realizada
+38,12,8,2024-02-12,Convênio,Consulta em Psiquiatria,415,realizada
+39,110,3,2024-02-11,Convênio,Consulta em Ginecologia e Obstetrícia,243,realizada
+40,85,7,2024-02-27,Convênio,Consulta em Dermatologia,239,realizada
+41,12,6,2024-02-09,Convênio,Consulta em Neurologia,315,realizada
+42,111,9,2024-02-27,SUS,Consulta em Endocrinologia,75.38,glosada
+43,112,9,2024-03-15,SUS,Consulta em Endocrinologia,75.38,realizada
+44,67,6,2024-03-20,Convênio,Consulta em Neurologia,329,realizada
+45,98,1,2024-03-07,Convênio,Consulta em Clínica Geral,163,realizada
+46,57,15,2024-03-23,Particular,Consulta em Pneumologia,361,realizada
+47,21,5,2024-03-18,Convênio,Consulta em Pediatria,178,realizada
+48,29,14,2024-03-04,Convênio,Consulta em Infectologia,236,glosada
+49,83,14,2024-03-05,Convênio,Consulta em Infectologia,237,glosada
+50,38,9,2024-03-23,Convênio,Consulta em Endocrinologia,268,realizada
+51,61,4,2024-03-15,SUS,Consulta em Ortopedia,75.38,realizada
+52,25,15,2024-03-20,Convênio,Consulta em Pneumologia,268,realizada
+53,111,2,2024-03-09,SUS,Consulta em Cardiologia,75.38,realizada
+54,44,15,2024-03-26,SUS,Consulta em Pneumologia,75.38,realizada
+55,37,12,2024-03-10,Convênio,Consulta em Reumatologia,316,realizada
+56,111,3,2024-03-15,SUS,Consulta em Ginecologia e Obstetrícia,75.38,realizada
+57,43,9,2024-03-25,SUS,Consulta em Endocrinologia,75.38,realizada
+58,120,6,2024-03-28,Convênio,Consulta em Neurologia,311,glosada
+59,31,10,2024-03-13,Convênio,Consulta em Oftalmologia,207,cancelada
+60,53,1,2024-03-11,SUS,Consulta em Clínica Geral,75.38,realizada
+61,50,11,2024-03-26,Convênio,Consulta em Urologia,271,realizada
+62,64,1,2024-03-05,Convênio,Consulta em Clínica Geral,171,glosada
+63,43,14,2024-03-04,SUS,Consulta em Infectologia,75.38,cancelada
+64,57,2,2024-03-17,Particular,Consulta em Cardiologia,389,realizada
+65,112,11,2024-03-05,SUS,Consulta em Urologia,75.38,realizada
+66,80,12,2024-04-13,Convênio,Consulta em Reumatologia,310,realizada
+67,110,11,2024-04-28,Convênio,Consulta em Urologia,262,realizada
+68,81,12,2024-04-25,Particular,Consulta em Reumatologia,411,cancelada
+69,5,10,2024-04-03,SUS,Consulta em Oftalmologia,75.38,realizada
+70,30,12,2024-04-03,Convênio,Consulta em Reumatologia,303,glosada
+71,98,11,2024-04-23,Convênio,Consulta em Urologia,272,realizada
+72,89,5,2024-04-01,Convênio,Consulta em Pediatria,179,realizada
+73,38,6,2024-04-12,Convênio,Consulta em Neurologia,318,realizada
+74,73,11,2024-04-26,SUS,Consulta em Urologia,75.38,realizada
+75,11,10,2024-04-28,SUS,Consulta em Oftalmologia,75.38,realizada
+76,64,15,2024-04-19,Convênio,Consulta em Pneumologia,256,realizada
+77,59,5,2024-04-22,Convênio,Consulta em Pediatria,178,cancelada
+78,60,15,2024-04-10,SUS,Consulta em Pneumologia,75.38,realizada
+79,10,8,2024-04-12,SUS,Consulta em Psiquiatria,150.76,glosada
+80,39,11,2024-04-14,SUS,Consulta em Urologia,75.38,realizada
+81,109,5,2024-04-07,Convênio,Consulta em Pediatria,190,cancelada
+82,14,4,2024-04-13,Convênio,Consulta em Ortopedia,300,realizada
+83,90,5,2024-04-01,SUS,Consulta em Pediatria,75.38,glosada
+84,85,7,2024-04-09,Convênio,Consulta em Dermatologia,215,realizada
+85,117,10,2024-04-24,Particular,Consulta em Oftalmologia,291,cancelada
+86,100,13,2024-05-08,Convênio,Consulta em Gastroenterologia,287,cancelada
+87,29,11,2024-05-07,Convênio,Consulta em Urologia,264,realizada
+88,81,2,2024-05-21,Particular,Consulta em Cardiologia,401,realizada
+89,75,6,2024-05-24,SUS,Consulta em Neurologia,75.38,realizada
+90,42,12,2024-05-14,SUS,Consulta em Reumatologia,130.66,realizada
+91,101,9,2024-05-12,Convênio,Consulta em Endocrinologia,276,realizada
+92,107,3,2024-05-09,Convênio,Consulta em Ginecologia e Obstetrícia,259,cancelada
+93,62,13,2024-05-10,Convênio,Consulta em Gastroenterologia,291,cancelada
+94,103,2,2024-05-15,SUS,Consulta em Cardiologia,75.38,glosada
+95,19,13,2024-05-08,Particular,Consulta em Gastroenterologia,393,realizada
+96,47,2,2024-05-26,SUS,Consulta em Cardiologia,75.38,realizada
+97,69,2,2024-05-15,Convênio,Consulta em Cardiologia,286,realizada
+98,75,7,2024-05-27,SUS,Consulta em Dermatologia,75.38,realizada
+99,14,11,2024-05-08,Convênio,Consulta em Urologia,260,realizada
+100,118,10,2024-05-08,Convênio,Consulta em Oftalmologia,220,realizada
+101,117,12,2024-05-10,Particular,Consulta em Reumatologia,421,realizada
+102,5,5,2024-05-16,SUS,Consulta em Pediatria,75.38,realizada
+103,114,9,2024-05-05,Convênio,Consulta em Endocrinologia,272,realizada
+104,76,12,2024-05-24,Convênio,Consulta em Reumatologia,294,cancelada
+105,84,2,2024-05-27,Convênio,Consulta em Cardiologia,290,realizada
+106,89,6,2024-06-07,Convênio,Consulta em Neurologia,319,realizada
+107,110,6,2024-06-04,Convênio,Consulta em Neurologia,326,realizada
+108,8,7,2024-06-09,SUS,Consulta em Dermatologia,75.38,realizada
+109,109,14,2024-06-15,Convênio,Consulta em Infectologia,224,realizada
+110,7,13,2024-06-11,Convênio,Consulta em Gastroenterologia,275,glosada
+111,101,10,2024-06-07,Convênio,Consulta em Oftalmologia,202,cancelada
+112,71,4,2024-06-19,Convênio,Consulta em Ortopedia,288,cancelada
+113,30,6,2024-06-25,Convênio,Consulta em Neurologia,309,realizada
+114,36,14,2024-06-05,Convênio,Consulta em Infectologia,226,realizada
+115,15,11,2024-06-28,Particular,Consulta em Urologia,321,realizada
+116,76,6,2024-06-01,Convênio,Consulta em Neurologia,310,realizada
+117,95,7,2024-06-17,SUS,Consulta em Dermatologia,75.38,realizada
+118,61,8,2024-06-25,SUS,Consulta em Psiquiatria,150.76,realizada
+119,58,9,2024-06-08,Convênio,Consulta em Endocrinologia,290,realizada
+120,59,11,2024-06-01,Convênio,Consulta em Urologia,246,glosada
+121,109,7,2024-06-14,Convênio,Consulta em Dermatologia,236,realizada
+122,10,15,2024-06-03,SUS,Consulta em Pneumologia,75.38,realizada
+123,9,3,2024-06-09,SUS,Consulta em Ginecologia e Obstetrícia,75.38,realizada
+124,77,9,2024-07-10,Convênio,Consulta em Endocrinologia,274,realizada
+125,13,13,2024-07-23,SUS,Consulta em Gastroenterologia,75.38,realizada
+126,56,8,2024-07-08,Particular,Consulta em Psiquiatria,556,realizada
+127,54,12,2024-07-04,Convênio,Consulta em Reumatologia,300,realizada
+128,48,3,2024-07-22,SUS,Consulta em Ginecologia e Obstetrícia,75.38,glosada
+129,9,2,2024-07-27,SUS,Consulta em Cardiologia,75.38,realizada
+130,13,12,2024-07-24,SUS,Consulta em Reumatologia,130.66,realizada
+131,72,1,2024-07-19,Convênio,Consulta em Clínica Geral,185,realizada
+132,86,2,2024-07-14,SUS,Consulta em Cardiologia,75.38,realizada
+133,112,15,2024-07-24,SUS,Consulta em Pneumologia,75.38,realizada
+134,77,5,2024-07-12,Convênio,Consulta em Pediatria,181,realizada
+135,20,11,2024-07-16,SUS,Consulta em Urologia,75.38,realizada
+136,45,14,2024-07-18,Convênio,Consulta em Infectologia,233,realizada
+137,74,4,2024-07-26,Particular,Consulta em Ortopedia,397,cancelada
+138,99,14,2024-07-20,Particular,Consulta em Infectologia,329,realizada
+139,119,11,2024-07-27,Particular,Consulta em Urologia,364,realizada
+140,90,13,2024-07-10,SUS,Consulta em Gastroenterologia,75.38,glosada
+141,45,1,2024-07-06,Convênio,Consulta em Clínica Geral,182,realizada
+142,9,3,2024-07-24,SUS,Consulta em Ginecologia e Obstetrícia,75.38,realizada
+143,12,12,2024-07-17,Convênio,Consulta em Reumatologia,296,realizada
+144,44,3,2024-07-12,SUS,Consulta em Ginecologia e Obstetrícia,75.38,realizada
+145,73,10,2024-08-03,SUS,Consulta em Oftalmologia,75.38,cancelada
+146,20,3,2024-08-25,SUS,Consulta em Ginecologia e Obstetrícia,75.38,realizada
+147,35,8,2024-08-22,SUS,Consulta em Psiquiatria,150.76,realizada
+148,54,5,2024-08-07,Convênio,Consulta em Pediatria,202,realizada
+149,56,2,2024-08-10,Particular,Consulta em Cardiologia,403,realizada
+150,86,5,2024-08-02,SUS,Consulta em Pediatria,75.38,realizada
+151,1,4,2024-08-10,SUS,Consulta em Ortopedia,75.38,glosada
+152,99,3,2024-08-25,Particular,Consulta em Ginecologia e Obstetrícia,316,realizada
+153,64,12,2024-08-14,Convênio,Consulta em Reumatologia,295,realizada
+154,65,9,2024-08-27,Particular,Consulta em Endocrinologia,382,cancelada
+155,10,7,2024-08-28,SUS,Consulta em Dermatologia,75.38,realizada
+156,3,8,2024-08-03,SUS,Consulta em Psiquiatria,150.76,cancelada
+157,74,7,2024-08-19,Particular,Consulta em Dermatologia,305,realizada
+158,15,7,2024-08-01,Particular,Consulta em Dermatologia,300,realizada
+159,118,6,2024-08-03,Convênio,Consulta em Neurologia,318,cancelada
+160,32,7,2024-08-19,Convênio,Consulta em Dermatologia,227,realizada
+161,112,5,2024-08-24,SUS,Consulta em Pediatria,75.38,realizada
+162,100,3,2024-08-03,Convênio,Consulta em Ginecologia e Obstetrícia,246,realizada
+163,116,13,2024-08-12,Convênio,Consulta em Gastroenterologia,279,realizada
+164,31,2,2024-08-05,Convênio,Consulta em Cardiologia,283,realizada
+165,98,13,2024-08-21,Convênio,Consulta em Gastroenterologia,270,realizada
+166,60,13,2024-08-19,SUS,Consulta em Gastroenterologia,75.38,realizada
+167,88,15,2024-08-19,Convênio,Consulta em Pneumologia,272,realizada
+168,111,11,2024-08-11,SUS,Consulta em Urologia,75.38,realizada
